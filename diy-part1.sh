@@ -15,7 +15,4 @@
 
 # Add a feed source
 # sed -i '$a src-git vernesong https://github.com/vernesong/OpenClash' feeds.conf.default
-git clone https://github.com/fw876/helloworld.git package/helloworld
 git clone https://github.com/vernesong/OpenClash.git package/OpenClash
-git clone https://github.com/xiaorouji/openwrt-passwall.git package/openwrt-passwall
-git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/luci-app-adguardhome
